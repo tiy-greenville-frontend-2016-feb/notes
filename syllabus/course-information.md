@@ -22,3 +22,7 @@ A teacher or TA will be available Monday-Thursday 9am-12pm and 1pm-5pm, and
 Friday from 9am-12pm and 1pm-4pm. During lab time, you can schedule one-on-one
 time with either of us. After hours, we may be available in the classroom or in
 Slack, which we use for group communication.
+
+## Holidays
+Presidents Day falls on February 15th. We won't have lecture or lab that day.
+
